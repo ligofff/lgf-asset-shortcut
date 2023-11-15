@@ -1,6 +1,6 @@
 {
     "name": "com.ligofff.lgf-asset-shortcut.Editor",
-    "references": [],
+    "references": ["GUID:7fc3f32088c918b4bac56e554551cd0a"],
     "includePlatforms": [
         "Editor"
     ],
