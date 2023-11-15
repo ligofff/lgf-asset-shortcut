@@ -1,0 +1,27 @@
+{
+  "name": "com.ligofff.lgf-asset-shortcut",
+  "displayName": "Ligofff - LGF Asset Shortcut",
+  "version": "0.1.0",
+  "unity": "2022.2",
+  "description": "Simple script that adds ability to make SO shortcuts for another unity objects",
+  "keywords": [
+    "unity",
+	"unity3d",
+	"upm",
+    "ligofff",
+    "utility"
+  ],
+  "homepage": "https://github.com/ligofff/lgf-asset-shortcut.git",
+  "bugs": {
+    "url": "https://github.com/ligofff/lgf-asset-shortcut/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ligofff/lgf-asset-shortcut.git"
+  },
+  "license": "MIT",
+  "author": "Ligofff (https://ligofff.com)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
